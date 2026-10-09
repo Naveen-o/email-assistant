@@ -45,7 +45,7 @@ Smart Email Assistant is an AI-powered application that generates context-aware 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Naveen-o/email-assistant.git
 cd <project-folder>
 ```
 
